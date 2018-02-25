@@ -1,1 +1,0 @@
-start C:\Windows\explorer.exe \\%1\c$\

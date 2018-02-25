@@ -1,1 +1,0 @@
-RD "%PROGRAMDATA%\Microsoft\Windows\Start Menu\Programs\Microsoft Office 2007" /S /Q

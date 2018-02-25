@@ -1,1 +1,0 @@
-﻿Get-ADComputer -Filter {OperatingSystem -Like "Windows XP*"} -Property * | Export-Csv -Path h:\XPPCs.cvs -NoTypeInformation

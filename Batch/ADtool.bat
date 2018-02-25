@@ -1,1 +1,0 @@
-start PowerShell.exe -File H:\Batch\ADTool5.ps1
