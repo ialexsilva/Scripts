@@ -1,0 +1,1 @@
+start C:\"Program Files"\"DameWare Development"\"DameWare NT Utilities"\DWRCC.exe -c -h -m:%1
